@@ -1,5 +1,8 @@
-### Hi there 👋
+## Estudiante de 4 curso de Ingeniería Informatica de Software 🖥💼🎓
+### Universidad de Sevilla 🏢
+Écija, Sevilla 🏡
 
+Perfil de LinkedIn: https://www.linkedin.com/in/alvaro-gomez-3408971b7/
 <!--
 **alvgomper1/alvgomper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
