@@ -1,6 +1,7 @@
-## Ingeniero Informático 🖥💼🎓
+## Ingeniero Informático 🖥💼
 ### Universidad de Sevilla 🏢
-Estudiante Ingeniería Informatica de Software
+Estudiante Ingeniería Informatica de Software 🎓
+Backend java developer 🔭
 Écija, Sevilla 🏡
 
 Perfil de LinkedIn: https://www.linkedin.com/in/alvaro-gomez-3408971b7/
