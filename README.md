@@ -1,5 +1,6 @@
-## Estudiante de 4 curso de Ingeniería Informatica de Software 🖥💼🎓
+## Ingeniero Informático 🖥💼🎓
 ### Universidad de Sevilla 🏢
+Estudiante Ingeniería Informatica de Software
 Écija, Sevilla 🏡
 
 Perfil de LinkedIn: https://www.linkedin.com/in/alvaro-gomez-3408971b7/
